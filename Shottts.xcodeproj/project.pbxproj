@@ -7,13 +7,51 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C5047561A1CE98E00A0A085 /* BackWebIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C5047521A1CE98E00A0A085 /* BackWebIcon@2x.png */; };
+		1C5047571A1CE98E00A0A085 /* CloseWebIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C5047531A1CE98E00A0A085 /* CloseWebIcon@2x.png */; };
+		1C5047581A1CE98E00A0A085 /* ForwardWebIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C5047541A1CE98E00A0A085 /* ForwardWebIcon@2x.png */; };
+		1C5047591A1CE98E00A0A085 /* RefreshWebIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C5047551A1CE98E00A0A085 /* RefreshWebIcon@2x.png */; };
+		1C66435A1A10415A00D2E3D3 /* CommentsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6643591A10415A00D2E3D3 /* CommentsTableViewCell.swift */; };
+		1C66435C1A1041B600D2E3D3 /* CommentsTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1C66435B1A1041B600D2E3D3 /* CommentsTableViewCell.xib */; };
+		1C66435E1A10474400D2E3D3 /* FollowersFollowingTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1C66435D1A10474400D2E3D3 /* FollowersFollowingTableViewCell.xib */; };
+		1C6643601A10475100D2E3D3 /* FollowersFollowingTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C66435F1A10475100D2E3D3 /* FollowersFollowingTableViewCell.swift */; };
+		1C6643621A10498600D2E3D3 /* MyProfileShotsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6643611A10498600D2E3D3 /* MyProfileShotsTableViewCell.swift */; };
+		1C6643641A1049E000D2E3D3 /* MyProfileShotsTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1C6643631A1049E000D2E3D3 /* MyProfileShotsTableViewCell.xib */; };
+		1C6643681A110FF500D2E3D3 /* SideBarTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6643671A110FF500D2E3D3 /* SideBarTableViewController.swift */; };
+		1C66436A1A11100E00D2E3D3 /* SideBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6643691A11100E00D2E3D3 /* SideBar.swift */; };
+		1C66436E1A11360B00D2E3D3 /* Social-Links-App-Store@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C66436B1A11360B00D2E3D3 /* Social-Links-App-Store@2x.png */; };
+		1C66436F1A11360B00D2E3D3 /* Social-Links-Facebook@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C66436C1A11360B00D2E3D3 /* Social-Links-Facebook@2x.png */; };
+		1C6643701A11360B00D2E3D3 /* Social-Links-Twitter@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C66436D1A11360B00D2E3D3 /* Social-Links-Twitter@2x.png */; };
+		1C6643C71A11AD9900D2E3D3 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6643C61A11AD9900D2E3D3 /* SwiftyJSON.swift */; };
 		1C67C02E1A084F6600D9515F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C67C02D1A084F6600D9515F /* AppDelegate.swift */; };
 		1C67C0311A084F6600D9515F /* Shottts.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1C67C02F1A084F6600D9515F /* Shottts.xcdatamodeld */; };
 		1C67C0331A084F6600D9515F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C67C0321A084F6600D9515F /* ViewController.swift */; };
 		1C67C0361A084F6600D9515F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C67C0341A084F6600D9515F /* Main.storyboard */; };
 		1C67C0381A084F6600D9515F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C67C0371A084F6600D9515F /* Images.xcassets */; };
-		1C67C03B1A084F6600D9515F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1C67C0391A084F6600D9515F /* LaunchScreen.xib */; };
 		1C67C0471A084F6700D9515F /* ShotttsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C67C0461A084F6700D9515F /* ShotttsTests.swift */; };
+		1C67C0511A086CE900D9515F /* MainShotsTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1C67C0501A086CE900D9515F /* MainShotsTableViewCell.xib */; };
+		1C67C0551A08810E00D9515F /* dribbbleLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C67C0541A08810E00D9515F /* dribbbleLogo.png */; };
+		1C6C9A921A0D3B0B00284DF3 /* FollowersFollowingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6C9A911A0D3B0B00284DF3 /* FollowersFollowingViewController.swift */; };
+		1C6C9A941A0D55D800284DF3 /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6C9A931A0D55D800284DF3 /* LogInViewController.swift */; };
+		1C6C9A961A0D5CEF00284DF3 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6C9A951A0D5CEF00284DF3 /* SettingsViewController.swift */; };
+		1C6C9A9C1A1011BA00284DF3 /* dribbble-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 1C6C9A9B1A1011BA00284DF3 /* dribbble-logo.png */; };
+		1C6C9A9E1A10172100284DF3 /* MoreInfoTableViewHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1C6C9A9D1A10172100284DF3 /* MoreInfoTableViewHeader.xib */; };
+		1C6C9AA01A10178C00284DF3 /* MoreInfoTableViewHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6C9A9F1A10178C00284DF3 /* MoreInfoTableViewHeader.swift */; };
+		1CF4F9261A142E5B005E7AE0 /* WebIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CF4F9251A142E5B005E7AE0 /* WebIcon@2x.png */; };
+		1CF4F9281A145C8F005E7AE0 /* MoreInfoTableViewImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CF4F9271A145C8F005E7AE0 /* MoreInfoTableViewImage.swift */; };
+		1CF4F92A1A145CB1005E7AE0 /* MoreInfoTableViewImage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1CF4F9291A145CB1005E7AE0 /* MoreInfoTableViewImage.xib */; };
+		1CF4F92C1A153209005E7AE0 /* ViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CF4F92B1A153209005E7AE0 /* ViewControllerExtension.swift */; };
+		1CF4F9311A154B89005E7AE0 /* CommentsIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CF4F92D1A154B89005E7AE0 /* CommentsIcon@2x.png */; };
+		1CF4F9321A154B89005E7AE0 /* LikedIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CF4F92E1A154B89005E7AE0 /* LikedIcon@2x.png */; };
+		1CF4F9331A154B89005E7AE0 /* LikeIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CF4F92F1A154B89005E7AE0 /* LikeIcon@2x.png */; };
+		1CF4F9341A154B89005E7AE0 /* ViewsIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CF4F9301A154B89005E7AE0 /* ViewsIcon@2x.png */; };
+		1CF4F9361A15BEFA005E7AE0 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CF4F9351A15BEFA005E7AE0 /* WebViewController.swift */; };
+		1CF4F9381A192BD5005E7AE0 /* HomeIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CF4F9371A192BD5005E7AE0 /* HomeIcon@2x.png */; };
+		1CFF91C01A0A6A1400257A7C /* MyProfileIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CFF91BE1A0A6A1400257A7C /* MyProfileIcon@2x.png */; };
+		1CFF91C11A0A6A1400257A7C /* NavMenuIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CFF91BF1A0A6A1400257A7C /* NavMenuIcon@2x.png */; };
+		1CFF91C31A0A71B500257A7C /* MainShotsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CFF91C21A0A71B500257A7C /* MainShotsTableViewCell.swift */; };
+		1CFF91C51A0A846800257A7C /* MoreInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CFF91C41A0A846800257A7C /* MoreInfoViewController.swift */; };
+		1CFF91C91A0A976900257A7C /* MyProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CFF91C81A0A976900257A7C /* MyProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +65,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1C5047521A1CE98E00A0A085 /* BackWebIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BackWebIcon@2x.png"; sourceTree = "<group>"; };
+		1C5047531A1CE98E00A0A085 /* CloseWebIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CloseWebIcon@2x.png"; sourceTree = "<group>"; };
+		1C5047541A1CE98E00A0A085 /* ForwardWebIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ForwardWebIcon@2x.png"; sourceTree = "<group>"; };
+		1C5047551A1CE98E00A0A085 /* RefreshWebIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "RefreshWebIcon@2x.png"; sourceTree = "<group>"; };
+		1C6643591A10415A00D2E3D3 /* CommentsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommentsTableViewCell.swift; sourceTree = "<group>"; };
+		1C66435B1A1041B600D2E3D3 /* CommentsTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CommentsTableViewCell.xib; sourceTree = "<group>"; };
+		1C66435D1A10474400D2E3D3 /* FollowersFollowingTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FollowersFollowingTableViewCell.xib; sourceTree = "<group>"; };
+		1C66435F1A10475100D2E3D3 /* FollowersFollowingTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FollowersFollowingTableViewCell.swift; sourceTree = "<group>"; };
+		1C6643611A10498600D2E3D3 /* MyProfileShotsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyProfileShotsTableViewCell.swift; sourceTree = "<group>"; };
+		1C6643631A1049E000D2E3D3 /* MyProfileShotsTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MyProfileShotsTableViewCell.xib; sourceTree = "<group>"; };
+		1C6643671A110FF500D2E3D3 /* SideBarTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideBarTableViewController.swift; sourceTree = "<group>"; };
+		1C6643691A11100E00D2E3D3 /* SideBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideBar.swift; sourceTree = "<group>"; };
+		1C66436B1A11360B00D2E3D3 /* Social-Links-App-Store@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Social-Links-App-Store@2x.png"; sourceTree = "<group>"; };
+		1C66436C1A11360B00D2E3D3 /* Social-Links-Facebook@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Social-Links-Facebook@2x.png"; sourceTree = "<group>"; };
+		1C66436D1A11360B00D2E3D3 /* Social-Links-Twitter@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Social-Links-Twitter@2x.png"; sourceTree = "<group>"; };
+		1C6643C61A11AD9900D2E3D3 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 		1C67C0281A084F6600D9515F /* Shottts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Shottts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C67C02C1A084F6600D9515F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1C67C02D1A084F6600D9515F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -34,10 +88,32 @@
 		1C67C0321A084F6600D9515F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1C67C0351A084F6600D9515F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1C67C0371A084F6600D9515F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		1C67C03A1A084F6600D9515F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		1C67C0401A084F6700D9515F /* ShotttsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShotttsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C67C0451A084F6700D9515F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1C67C0461A084F6700D9515F /* ShotttsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShotttsTests.swift; sourceTree = "<group>"; };
+		1C67C0501A086CE900D9515F /* MainShotsTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainShotsTableViewCell.xib; sourceTree = "<group>"; };
+		1C67C0541A08810E00D9515F /* dribbbleLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dribbbleLogo.png; sourceTree = "<group>"; };
+		1C6C9A911A0D3B0B00284DF3 /* FollowersFollowingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FollowersFollowingViewController.swift; sourceTree = "<group>"; };
+		1C6C9A931A0D55D800284DF3 /* LogInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
+		1C6C9A951A0D5CEF00284DF3 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		1C6C9A9B1A1011BA00284DF3 /* dribbble-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dribbble-logo.png"; sourceTree = "<group>"; };
+		1C6C9A9D1A10172100284DF3 /* MoreInfoTableViewHeader.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MoreInfoTableViewHeader.xib; sourceTree = "<group>"; };
+		1C6C9A9F1A10178C00284DF3 /* MoreInfoTableViewHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoreInfoTableViewHeader.swift; sourceTree = "<group>"; };
+		1CF4F9251A142E5B005E7AE0 /* WebIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WebIcon@2x.png"; sourceTree = "<group>"; };
+		1CF4F9271A145C8F005E7AE0 /* MoreInfoTableViewImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoreInfoTableViewImage.swift; sourceTree = "<group>"; };
+		1CF4F9291A145CB1005E7AE0 /* MoreInfoTableViewImage.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MoreInfoTableViewImage.xib; sourceTree = "<group>"; };
+		1CF4F92B1A153209005E7AE0 /* ViewControllerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerExtension.swift; sourceTree = "<group>"; };
+		1CF4F92D1A154B89005E7AE0 /* CommentsIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CommentsIcon@2x.png"; sourceTree = "<group>"; };
+		1CF4F92E1A154B89005E7AE0 /* LikedIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LikedIcon@2x.png"; sourceTree = "<group>"; };
+		1CF4F92F1A154B89005E7AE0 /* LikeIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LikeIcon@2x.png"; sourceTree = "<group>"; };
+		1CF4F9301A154B89005E7AE0 /* ViewsIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ViewsIcon@2x.png"; sourceTree = "<group>"; };
+		1CF4F9351A15BEFA005E7AE0 /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
+		1CF4F9371A192BD5005E7AE0 /* HomeIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "HomeIcon@2x.png"; sourceTree = "<group>"; };
+		1CFF91BE1A0A6A1400257A7C /* MyProfileIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MyProfileIcon@2x.png"; sourceTree = "<group>"; };
+		1CFF91BF1A0A6A1400257A7C /* NavMenuIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NavMenuIcon@2x.png"; sourceTree = "<group>"; };
+		1CFF91C21A0A71B500257A7C /* MainShotsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainShotsTableViewCell.swift; sourceTree = "<group>"; };
+		1CFF91C41A0A846800257A7C /* MoreInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoreInfoViewController.swift; sourceTree = "<group>"; };
+		1CFF91C81A0A976900257A7C /* MyProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +134,99 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1C50475A1A1D3A6B00A0A085 /* Main View Controller */ = {
+			isa = PBXGroup;
+			children = (
+				1C67C0321A084F6600D9515F /* ViewController.swift */,
+				1CF4F92B1A153209005E7AE0 /* ViewControllerExtension.swift */,
+				1CFF91C21A0A71B500257A7C /* MainShotsTableViewCell.swift */,
+				1C67C0501A086CE900D9515F /* MainShotsTableViewCell.xib */,
+			);
+			name = "Main View Controller";
+			sourceTree = "<group>";
+		};
+		1C50475B1A1D3A8600A0A085 /* Slide Out Navigation */ = {
+			isa = PBXGroup;
+			children = (
+				1C6643691A11100E00D2E3D3 /* SideBar.swift */,
+				1C6643671A110FF500D2E3D3 /* SideBarTableViewController.swift */,
+			);
+			name = "Slide Out Navigation";
+			sourceTree = "<group>";
+		};
+		1C50475C1A1D3AF100A0A085 /* My Profile */ = {
+			isa = PBXGroup;
+			children = (
+				1CFF91C81A0A976900257A7C /* MyProfileViewController.swift */,
+				1C6643611A10498600D2E3D3 /* MyProfileShotsTableViewCell.swift */,
+				1C6643631A1049E000D2E3D3 /* MyProfileShotsTableViewCell.xib */,
+			);
+			name = "My Profile";
+			sourceTree = "<group>";
+		};
+		1C50475D1A1D3B0700A0A085 /* Followers / Following */ = {
+			isa = PBXGroup;
+			children = (
+				1C6C9A911A0D3B0B00284DF3 /* FollowersFollowingViewController.swift */,
+				1C66435F1A10475100D2E3D3 /* FollowersFollowingTableViewCell.swift */,
+				1C66435D1A10474400D2E3D3 /* FollowersFollowingTableViewCell.xib */,
+			);
+			name = "Followers / Following";
+			sourceTree = "<group>";
+		};
+		1C50475E1A1D3B2D00A0A085 /* Log In */ = {
+			isa = PBXGroup;
+			children = (
+				1C6C9A931A0D55D800284DF3 /* LogInViewController.swift */,
+			);
+			name = "Log In";
+			sourceTree = "<group>";
+		};
+		1C50475F1A1D3B6100A0A085 /* More Info */ = {
+			isa = PBXGroup;
+			children = (
+				1CFF91C41A0A846800257A7C /* MoreInfoViewController.swift */,
+				1CF4F9271A145C8F005E7AE0 /* MoreInfoTableViewImage.swift */,
+				1CF4F9291A145CB1005E7AE0 /* MoreInfoTableViewImage.xib */,
+				1C6C9A9F1A10178C00284DF3 /* MoreInfoTableViewHeader.swift */,
+				1C6C9A9D1A10172100284DF3 /* MoreInfoTableViewHeader.xib */,
+			);
+			name = "More Info";
+			sourceTree = "<group>";
+		};
+		1C5047601A1D3B7500A0A085 /* Comments */ = {
+			isa = PBXGroup;
+			children = (
+				1C6643591A10415A00D2E3D3 /* CommentsTableViewCell.swift */,
+				1C66435B1A1041B600D2E3D3 /* CommentsTableViewCell.xib */,
+			);
+			name = Comments;
+			sourceTree = "<group>";
+		};
+		1C5047611A1D3B8200A0A085 /* Web View */ = {
+			isa = PBXGroup;
+			children = (
+				1CF4F9351A15BEFA005E7AE0 /* WebViewController.swift */,
+			);
+			name = "Web View";
+			sourceTree = "<group>";
+		};
+		1C5047621A1D3B9500A0A085 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				1C6C9A951A0D5CEF00284DF3 /* SettingsViewController.swift */,
+			);
+			name = Settings;
+			sourceTree = "<group>";
+		};
+		1C5047631A1D3BA900A0A085 /* Other Files */ = {
+			isa = PBXGroup;
+			children = (
+				1C6643C61A11AD9900D2E3D3 /* SwiftyJSON.swift */,
+			);
+			name = "Other Files";
+			sourceTree = "<group>";
+		};
 		1C67C01F1A084F6600D9515F = {
 			isa = PBXGroup;
 			children = (
@@ -80,10 +249,19 @@
 			isa = PBXGroup;
 			children = (
 				1C67C02D1A084F6600D9515F /* AppDelegate.swift */,
-				1C67C0321A084F6600D9515F /* ViewController.swift */,
+				1C67C0561A08811400D9515F /* Images */,
+				1C50475A1A1D3A6B00A0A085 /* Main View Controller */,
+				1C50475B1A1D3A8600A0A085 /* Slide Out Navigation */,
+				1C50475E1A1D3B2D00A0A085 /* Log In */,
+				1C50475C1A1D3AF100A0A085 /* My Profile */,
+				1C50475D1A1D3B0700A0A085 /* Followers / Following */,
+				1C50475F1A1D3B6100A0A085 /* More Info */,
+				1C5047601A1D3B7500A0A085 /* Comments */,
+				1C5047611A1D3B8200A0A085 /* Web View */,
+				1C5047621A1D3B9500A0A085 /* Settings */,
+				1C5047631A1D3BA900A0A085 /* Other Files */,
 				1C67C0341A084F6600D9515F /* Main.storyboard */,
 				1C67C0371A084F6600D9515F /* Images.xcassets */,
-				1C67C0391A084F6600D9515F /* LaunchScreen.xib */,
 				1C67C02F1A084F6600D9515F /* Shottts.xcdatamodeld */,
 				1C67C02B1A084F6600D9515F /* Supporting Files */,
 			);
@@ -113,6 +291,30 @@
 				1C67C0451A084F6700D9515F /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1C67C0561A08811400D9515F /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				1C5047521A1CE98E00A0A085 /* BackWebIcon@2x.png */,
+				1C5047531A1CE98E00A0A085 /* CloseWebIcon@2x.png */,
+				1C5047541A1CE98E00A0A085 /* ForwardWebIcon@2x.png */,
+				1C5047551A1CE98E00A0A085 /* RefreshWebIcon@2x.png */,
+				1CF4F9371A192BD5005E7AE0 /* HomeIcon@2x.png */,
+				1CF4F92D1A154B89005E7AE0 /* CommentsIcon@2x.png */,
+				1CF4F92E1A154B89005E7AE0 /* LikedIcon@2x.png */,
+				1CF4F92F1A154B89005E7AE0 /* LikeIcon@2x.png */,
+				1CF4F9301A154B89005E7AE0 /* ViewsIcon@2x.png */,
+				1CFF91BE1A0A6A1400257A7C /* MyProfileIcon@2x.png */,
+				1CFF91BF1A0A6A1400257A7C /* NavMenuIcon@2x.png */,
+				1C6C9A9B1A1011BA00284DF3 /* dribbble-logo.png */,
+				1C67C0541A08810E00D9515F /* dribbbleLogo.png */,
+				1C66436B1A11360B00D2E3D3 /* Social-Links-App-Store@2x.png */,
+				1C66436C1A11360B00D2E3D3 /* Social-Links-Facebook@2x.png */,
+				1C66436D1A11360B00D2E3D3 /* Social-Links-Twitter@2x.png */,
+				1CF4F9251A142E5B005E7AE0 /* WebIcon@2x.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,6 +366,7 @@
 				TargetAttributes = {
 					1C67C0271A084F6600D9515F = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = GCWPPJ6K58;
 					};
 					1C67C03F1A084F6600D9515F = {
 						CreatedOnToolsVersion = 6.1;
@@ -195,9 +398,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1CF4F92A1A145CB1005E7AE0 /* MoreInfoTableViewImage.xib in Resources */,
+				1C6C9A9C1A1011BA00284DF3 /* dribbble-logo.png in Resources */,
+				1C67C0511A086CE900D9515F /* MainShotsTableViewCell.xib in Resources */,
+				1CF4F9321A154B89005E7AE0 /* LikedIcon@2x.png in Resources */,
+				1CF4F9341A154B89005E7AE0 /* ViewsIcon@2x.png in Resources */,
+				1C66435C1A1041B600D2E3D3 /* CommentsTableViewCell.xib in Resources */,
+				1C5047581A1CE98E00A0A085 /* ForwardWebIcon@2x.png in Resources */,
+				1C66436E1A11360B00D2E3D3 /* Social-Links-App-Store@2x.png in Resources */,
+				1CF4F9311A154B89005E7AE0 /* CommentsIcon@2x.png in Resources */,
+				1CF4F9331A154B89005E7AE0 /* LikeIcon@2x.png in Resources */,
+				1C66435E1A10474400D2E3D3 /* FollowersFollowingTableViewCell.xib in Resources */,
 				1C67C0361A084F6600D9515F /* Main.storyboard in Resources */,
-				1C67C03B1A084F6600D9515F /* LaunchScreen.xib in Resources */,
+				1CFF91C11A0A6A1400257A7C /* NavMenuIcon@2x.png in Resources */,
+				1CFF91C01A0A6A1400257A7C /* MyProfileIcon@2x.png in Resources */,
+				1C6643641A1049E000D2E3D3 /* MyProfileShotsTableViewCell.xib in Resources */,
+				1C67C0551A08810E00D9515F /* dribbbleLogo.png in Resources */,
+				1CF4F9261A142E5B005E7AE0 /* WebIcon@2x.png in Resources */,
+				1CF4F9381A192BD5005E7AE0 /* HomeIcon@2x.png in Resources */,
+				1C66436F1A11360B00D2E3D3 /* Social-Links-Facebook@2x.png in Resources */,
 				1C67C0381A084F6600D9515F /* Images.xcassets in Resources */,
+				1C6C9A9E1A10172100284DF3 /* MoreInfoTableViewHeader.xib in Resources */,
+				1C6643701A11360B00D2E3D3 /* Social-Links-Twitter@2x.png in Resources */,
+				1C5047571A1CE98E00A0A085 /* CloseWebIcon@2x.png in Resources */,
+				1C5047591A1CE98E00A0A085 /* RefreshWebIcon@2x.png in Resources */,
+				1C5047561A1CE98E00A0A085 /* BackWebIcon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -215,9 +440,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1CF4F9361A15BEFA005E7AE0 /* WebViewController.swift in Sources */,
+				1CFF91C91A0A976900257A7C /* MyProfileViewController.swift in Sources */,
+				1CFF91C31A0A71B500257A7C /* MainShotsTableViewCell.swift in Sources */,
+				1CF4F92C1A153209005E7AE0 /* ViewControllerExtension.swift in Sources */,
+				1C66436A1A11100E00D2E3D3 /* SideBar.swift in Sources */,
+				1C6643601A10475100D2E3D3 /* FollowersFollowingTableViewCell.swift in Sources */,
 				1C67C0331A084F6600D9515F /* ViewController.swift in Sources */,
+				1C6643681A110FF500D2E3D3 /* SideBarTableViewController.swift in Sources */,
+				1CFF91C51A0A846800257A7C /* MoreInfoViewController.swift in Sources */,
+				1CF4F9281A145C8F005E7AE0 /* MoreInfoTableViewImage.swift in Sources */,
+				1C6C9A941A0D55D800284DF3 /* LogInViewController.swift in Sources */,
+				1C6C9AA01A10178C00284DF3 /* MoreInfoTableViewHeader.swift in Sources */,
 				1C67C02E1A084F6600D9515F /* AppDelegate.swift in Sources */,
+				1C66435A1A10415A00D2E3D3 /* CommentsTableViewCell.swift in Sources */,
+				1C6643C71A11AD9900D2E3D3 /* SwiftyJSON.swift in Sources */,
+				1C6C9A921A0D3B0B00284DF3 /* FollowersFollowingViewController.swift in Sources */,
+				1C6643621A10498600D2E3D3 /* MyProfileShotsTableViewCell.swift in Sources */,
 				1C67C0311A084F6600D9515F /* Shottts.xcdatamodeld in Sources */,
+				1C6C9A961A0D5CEF00284DF3 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,14 +487,6 @@
 				1C67C0351A084F6600D9515F /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		1C67C0391A084F6600D9515F /* LaunchScreen.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1C67C03A1A084F6600D9515F /* Base */,
-			);
-			name = LaunchScreen.xib;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -340,6 +573,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Shottts/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -350,6 +584,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Shottts/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -409,6 +644,7 @@
 				1C67C04C1A084F6700D9515F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1C67C04D1A084F6700D9515F /* Build configuration list for PBXNativeTarget "ShotttsTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +653,7 @@
 				1C67C04F1A084F6700D9515F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
